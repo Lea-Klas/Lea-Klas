@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **building up my Portfolio**
 
-- 🌱 I’m currently learning **MySQL, PowerBI**
+- 🌱 I’m currently learning **MySQL, Tableau**
 
 - 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/LeaKlas](https://www.datascienceportfol.io/LeaKlas)
 
