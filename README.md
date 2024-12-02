@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lea</h1>
-<h3 align="center">Data Scientist</h3>
+<h3 align="center">Data Analyst @Douglas</h3>
 
 - 🔭 I’m currently working on **building up my Portfolio**
 
